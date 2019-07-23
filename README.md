@@ -1,4 +1,4 @@
-# fourtitude-asia-test
+# Furtitude-Asia-InterviewTest
 
 # Install steps to build maven application
 
